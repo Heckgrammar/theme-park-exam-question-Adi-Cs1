@@ -20,6 +20,21 @@
             // 3: 6 people
             // Commit your changes and add screnshot evidence of your program running to the Readme
 
-        }
-    }
+             //public static void Main(string[] args)
+    {
+        //Console.WriteLine("How many people");
+        //int people = Convert.ToInt32(Console.ReadLine());
+        //int totalCharge = people*15;
+        //if(people >= 6)
+        //{
+         //   totalCharge=totalCharge-5;
+        //}
+        //Console.WriteLine("There are " + people + "  people ");
+        //Console.WriteLine(totalCharge);
+        
+        
+    //}
+
+        //}
+   //}
 }
